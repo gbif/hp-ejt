@@ -7,17 +7,15 @@ background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
 cta:
-  - text: Institutions
-    href: /institution/search
+  - text: Papers
+    href: /dataset/search
     isPrimary: true
-  - text: Specimens
-    href: /specimen/search
+  - text: Material
+    href: /occurrence/search
   - text: About
     href: /about
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
   - type: split
     data: examples.herbariumImageExample
   - type: features

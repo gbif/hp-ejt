@@ -6,12 +6,10 @@
 #   href: /occurrence/search
 - text: Data
   menu: 
-  - text: Occurrences
+  - text: Material
     href: /occurrence/search
-  - text: Institutions
-    href: /institution/search
-  - text: Collections
-    href: /collection/search
+  - text: Papers
+    href: /dataset/search
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
