@@ -14,9 +14,41 @@ cta:
     href: /occurrence/search
 composition:
   - type: heroImage # the block type
-  - type: split
-    data: examples.herbariumImageExample
-  - type: features
-    data: examples.couldBeAnyName
+  - type: statisticsWithTextOnly
+    data:
+      - label: "Datasets"
+        value: "1413"
+      - label: "Occurrences"
+        value: "41372"
+      - label: "Citations"
+        value: "590"
 permalink: /
+
+#CSS
+style:
+  .statistics-with-text-only {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+
+  .statistics-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 150px;
+  }
+
+  .statistics-item .value {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .statistics-item .label {
+    font-size: 1em;
+    font-weight: normal;
+  }
+
 ---
