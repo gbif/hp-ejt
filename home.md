@@ -26,7 +26,7 @@ permalink: /
 
 #CSS
 style:
-  .statistics-with-text-only
+  .statistics-With-Text-Only
   {
     display: flex;
     justify-content: space-between;
