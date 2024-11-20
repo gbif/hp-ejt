@@ -23,6 +23,7 @@ composition:
       - label: "Citations"
         value: "590"
 permalink: /
+---
 
 # Intégration du CSS directement dans la page avec une bonne structure YAML
 css: |
@@ -51,5 +52,3 @@ css: |
     font-size: 1em; /* Taille de police du label */
     font-weight: normal; /* Le label en poids normal */
   }
-
-  ---
