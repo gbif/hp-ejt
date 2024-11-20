@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: European Journal of Taxonomy
-description: Find data encapsulated in our publications.
+description: Find data contained in our publications.
 background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
