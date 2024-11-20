@@ -26,27 +26,31 @@ permalink: /
 
 #CSS
 style:
-  .statistics-with-text-only {
+  .statistics-with-text-only
+  {
     display: flex;
     justify-content: space-between;
     gap: 30px;
     flex-wrap: wrap;
   }
 
-  .statistics-item {
+  .statistics-item
+  {
     display: flex;
     flex-direction: column;
     align-items: center;
     max-width: 150px;
   }
 
-  .statistics-item .value {
+  .statistics-item .value
+  {
     font-size: 2em;
     font-weight: bold;
     margin-bottom: 10px;
   }
 
-  .statistics-item .label {
+  .statistics-item .label
+  {
     font-size: 1em;
     font-weight: normal;
   }
