@@ -31,7 +31,7 @@ twitter_username: ejtaxonomy # if you have an account you want to link to. Else 
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
