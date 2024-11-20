@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+title: European Journal of Taxonomy
+description: Find data encapsulated in our publications.
 background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
@@ -12,8 +12,6 @@ cta:
     isPrimary: true
   - text: Material
     href: /occurrence/search
-  - text: About
-    href: /about
 composition:
   - type: heroImage # the block type
   - type: split
