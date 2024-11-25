@@ -1,7 +1,7 @@
 ---
 lang-ref: about
-title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: European Journal of Taxonomy
+description: An open access journal for descriptive taxonomy for living and fossil eukaryotes
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
