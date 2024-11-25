@@ -40,7 +40,6 @@ columns:
       * 75005 Paris
       * France
       * email: ejteditorialoffice@gmail.com
-    connectIcons: true
 
   # EXAMPLE - Optionally uncomment this block to add more footer content
   # - name: Group name
@@ -51,7 +50,6 @@ columns:
   #       href: http://example.com
   #     - text: link title 2
   #       href: http://example2.com
-  #   connectIcons: true # optional - show social icons (defined in _config.yml)
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
