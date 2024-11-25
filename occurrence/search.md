@@ -1,6 +1,6 @@
 ---
-lang-ref: occurrence/search?/view=TABLE
+lang-ref: occurrence/search/
 title: Occurrence search
 description: We publish open data
-layout: occurrence
+layout: occurrence/?view=TABLE
 ---
