@@ -14,14 +14,6 @@ cta:
     href: /occurrence/search
 composition:
   - type: heroImage # the block type
-  - type: statisticsWithTextOnly
-    data:
-      - label: "Datasets"
-        value: "1413"
-      - label: "Occurrences"
-        value: "41372"
-      - label: "Citations"
-        value: "590"
 permalink: /
 
 # Intégration du CSS directement dans la page
