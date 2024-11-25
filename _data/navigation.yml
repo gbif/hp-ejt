@@ -10,7 +10,7 @@
     href: /occurrence/search
   - text: Papers
     href: /dataset/search
-- text: Example pages
+#- text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
     href: /example-pages/simple
