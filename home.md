@@ -23,7 +23,6 @@ composition:
       - label: "Citations"
         value: "590"
 permalink: /
----
 
 # Intégration du CSS directement dans la page
 css: |
@@ -51,3 +50,4 @@ css: |
     font-size: 1em;
     font-weight: normal;
   }
+---
