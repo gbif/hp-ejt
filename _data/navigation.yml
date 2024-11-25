@@ -10,13 +10,13 @@
     href: /occurrence/search
   - text: Papers
     href: /dataset/search
-#- text: Example pages
+# - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
     href: /example-pages/simple
   - text: Complex
     href: /example-pages/complex
-- text: Links
+# - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
