@@ -8,44 +8,33 @@ imageLicense: |
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## What is EJT?
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+The European Journal of Taxonomy is a fully refereed, international, fully electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), and palaeontology.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
-## Quam ex te videt
+## Journal History
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
+The European Journal of Taxonomy was initiated by a task force of six people from the [EDIT](http://www.e-taxonomy.eu/) (European Distributed Institute of Taxonomy) network who worked together from June 2009 to September 2011 to propose a joint journal that would solve some of the issues identified in shifting from paper to e-only publishing for institutional journals in taxonomy. The task force was given a mandate by the EDIT directors to investigate the need for and feasibility of launching such a joint e-journal. After their investigation, the task force presented a business model involving natural history institutions (NHIs). Five NHIs (National Museum of Natural History, Paris, France; Meise Botanic Garden, Meise, Belgium; Royal Museum for Central Africa, Tervuren, Belgium; Natural History Museum, London, United Kingdom; Institute of Natural Sciences, Brussels, Belgium) offer their financial support and/or their in-kind support (skilled publishing staff, IT staff), which provides autonomy for the journal. After a proofing period of the publishing model, workflow model and editorial team organisation, the first article was published on September 9th 2011.
 
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
 
-### Turbatque promittat memorque
+## Journal Sponsorship
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
+The journal is funded and published by a consortium of European natural history institutions (NHIs):
+
+**National Museum of Natural History, Paris**, France (2011–)
+**Meise Botanic Garden, Meise**, Belgium (2011–)
+**Royal Museum for Central Africa, Tervuren**, Belgium (2011–)
+**Natural History Museum, London**, United Kingdom (2011–2018)
+**Institute of Natural Sciences, Brussels**, Belgium (2011–)
+**Natural History Museum of Denmark, Copenhagen**, Denmark (2011–)
+**Naturalis Biodiversity Center, Leiden**, The Netherlands (2016–)
+**Museo Nacional de Ciencias Naturales, Madrid**, Spain (2017–)
+**Real Jardín Botánico, Madrid**, Spain (2017–)
+**Leibniz Institute for the Analysis of Biodiversity Change, Bonn**, Germany (2018–)
+**National Museum of the Czech Republic, Prague**, Czech Republic (2019–)
+**The Steinhardt Museum of Natural History, Tel Aviv**, Israël (2023–)
 
 --------
 
