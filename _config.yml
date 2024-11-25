@@ -27,11 +27,11 @@ description: >- # this means to ignore newlines (until baseurl:)
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ejt.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
-x_username: ejtaxonomy # if you have an account you want to link to. Else comment this line out
+twitter_username: ejtaxonomy # if you have an account you want to link to. Else comment this line out
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
