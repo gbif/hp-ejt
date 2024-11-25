@@ -3,6 +3,12 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
+  - name: Code
+    description: |
+      * This project is open source.
+      * The files are available on [GitHub](https://github.com/gbif/hp-ejt).
+      * Icons by [Icones8](https://icones8.fr/).
+      
   - name: Consortium
     links:
       - text: National Museum of Natural History, Paris
