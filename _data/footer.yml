@@ -4,8 +4,57 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - name: Code
-    description: |+ # Can be Markdown
-        * Ce projet est open source. 
-        * Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-france). 
-        * [Mentions légales](/legal/mentions-legales)
-        * Icônes par [Icones8](https://icones8.fr/) 
+    description: |
+      * This project is open source.
+      * The files are available on [GitHub](https://github.com/gbif/hp-ejt).
+      * Icons by [Icones8](https://icones8.fr/).
+      
+  - name: Consortium
+    links:
+      - text: National Museum of Natural History, Paris
+        href: https://www.mnhn.fr
+      - text: Meise Botanic Garden, Meise
+        href: https://www.plantentuinmeise.be
+      - text: Royal Museum for Central Africa, Tervuren
+        href: https://www.africamuseum.be
+      - text: Institute of Natural Sciences, Brussels
+        href: https://www.naturalsciences.be
+      - text: Natural History Museum of Denmark, Copenhagen
+        href: https://snm.ku.dk
+      - text: Naturalis Biodiversity Center, Leiden
+        href: https://www.naturalis.nl
+      - text: Museo Nacional de Ciencias Naturales, Madrid
+        href: https://www.mncn.csic.es
+      - text: Real Jardín Botánico, Madrid
+        href: https://www.rjb.csic.es/jardinbotanico/jardin
+      - text: Leibniz Institute for the Analysis of Biodiversity Change, Bonn
+        href: https://leibniz-lib.de
+      - text: National Museum of the Czech Republic, Prague
+        href: https://www.nm.cz
+      - text: The Steinhardt Museum of Natural History, Tel Aviv
+        href: https://smnh.tau.ac.il
+
+  - name: Contact
+    description: |
+      * 57 rue Cuvier
+      * 75005 Paris
+      * France
+      * email: ejteditorialoffice@gmail.com
+    connectIcons: true
+
+  # EXAMPLE - Optionally uncomment this block to add more footer content
+  # - name: Group name
+  #   description: |
+  #     An optional description. Can be markdown
+  #   links:
+  #     - text: link title
+  #       href: http://example.com
+  #     - text: link title 2
+  #       href: http://example2.com
+
+# Small print license statement to add at the bottom of the footer. Can be Markdown
+# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
+# Will be postfixed by "Powered by GBIF"
+# (Disabled by default, remove the '#' lines on the following two lines to enable.)
+# license: >
+#   Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
