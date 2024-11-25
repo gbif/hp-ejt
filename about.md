@@ -13,14 +13,13 @@ The European Journal of Taxonomy is a fully refereed, international, fully elect
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
-## Journal History
+### Journal History
 
 The European Journal of Taxonomy was initiated by a task force of six people from the [EDIT](http://www.e-taxonomy.eu/) (European Distributed Institute of Taxonomy) network who worked together from June 2009 to September 2011 to propose a joint journal that would solve some of the issues identified in shifting from paper to e-only publishing for institutional journals in taxonomy. The task force was given a mandate by the EDIT directors to investigate the need for and feasibility of launching such a joint e-journal. After their investigation, the task force presented a business model involving natural history institutions (NHIs). Five NHIs (National Museum of Natural History, Paris, France; Meise Botanic Garden, Meise, Belgium; Royal Museum for Central Africa, Tervuren, Belgium; Natural History Museum, London, United Kingdom; Institute of Natural Sciences, Brussels, Belgium) offer their financial support and/or their in-kind support (skilled publishing staff, IT staff), which provides autonomy for the journal. After a proofing period of the publishing model, workflow model and editorial team organisation, the first article was published on September 9th 2011.
 
+### Journal Sponsorship
 
-## Journal Sponsorship
-
-The journal is funded and published by a consortium of European natural history institutions (NHIs):
+Nowadays, the journal is funded and published by a consortium of 10 European natural history institutions (NHIs):
 
 * National Museum of Natural History, Paris, France (2011–)
 * Meise Botanic Garden, Meise, Belgium (2011–)
