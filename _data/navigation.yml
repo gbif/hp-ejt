@@ -8,7 +8,7 @@
     href: /dataset/search
   - text: Material
     href: /occurrence/search
-- text: News
-  href: /news/
 - text: Latest issues
   href: https://europeanjournaloftaxonomy.eu/index.php/ejt/issue/archive "target='_blank'"
+- text: News
+  href: /news/
