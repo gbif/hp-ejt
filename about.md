@@ -55,5 +55,5 @@ Nowadays, the journal is funded and published by a consortium of 10 European nat
 | Pages                | 58,303        |  100% |  100%  |
 | Figures              | 22,475        |  100% |  100%  |
 | Tables               | 2,629         |  100% |  100%  |
-| Material citations   | 255,283       |       |        |
-| Treatment citations  | 41,059        |       |        |
+| Material citations   | 255,283       |  100% |  100%  |
+| Treatment citations  | 41,059        |  100% |  100%  |
