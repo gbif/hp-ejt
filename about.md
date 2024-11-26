@@ -7,7 +7,7 @@ imageLicense: |
 height: 70vh
 ---
 
-## What is EJT?
+### What is EJT?
 
 The European Journal of Taxonomy is a fully refereed, international, fully electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), and palaeontology.
 
@@ -36,44 +36,15 @@ Nowadays, the journal is funded and published by a consortium of 10 European nat
 
 --------
 
-### In frustra albus
+### A few statistics
 
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+|                      | Statistics    |  BLR  |  GBIF  |
+| -------------        | -------------:| -----:| -----: |
+| Articles             | 1,488         |  100% |  100%  |
+| Treatments           | 25,961        |  100% |  100%  |
+| New species          | 5,403         |  100% |  100%  |
+| Pages                | 58,303        |  100% |  100%  |
+| Figures              | 22,475        |  100% |  100%  |
+| Tables               | 2,629         |  100% |  100%  |
+| Material citations   | 255,283       |       |        |
+| Treatment citations  | 41,059        |       |        |
