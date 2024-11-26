@@ -57,4 +57,3 @@ Nowadays, the journal is funded and published by a consortium of 10 European nat
 | Tables               | 2,629         |  100% |  100%  |
 | Material citations   | 255,283       |       |        |
 | Treatment citations  | 41,059        |       |        |
----------
