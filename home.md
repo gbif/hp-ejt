@@ -13,6 +13,10 @@ cta:
   - text: Material
     href: /occurrence/search
 composition:
-  - type: heroImage # the block type
+  - type: heroImage
+  - type: stats
+    data: home.stats
+    
 permalink: /
+
 ---
