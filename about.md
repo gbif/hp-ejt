@@ -8,13 +8,13 @@ height: 70vh
 toc: true
 ---
 
-## What is EJT?
+### What is EJT?
 
 The European Journal of Taxonomy is a fully refereed, international, fully electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), and palaeontology.
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
-## Journal History
+### Journal History
 
 The European Journal of Taxonomy was initiated by a task force of six people from the [EDIT](http://www.e-taxonomy.eu/) (European Distributed Institute of Taxonomy) network who worked together from June 2009 to September 2011 to propose a joint journal that would solve some of the issues identified in shifting from paper to e-only publishing for institutional journals in taxonomy. The task force was given a mandate by the EDIT directors to investigate the need for and feasibility of launching such a joint e-journal. After their investigation, the task force presented a business model involving natural history institutions (NHIs). Five NHIs (National Museum of Natural History, Paris, France; Meise Botanic Garden, Meise, Belgium; Royal Museum for Central Africa, Tervuren, Belgium; Natural History Museum, London, United Kingdom; Institute of Natural Sciences, Brussels, Belgium) offer their financial support and/or their in-kind support (skilled publishing staff, IT staff), which provides autonomy for the journal. After a proofing period of the publishing model, workflow model and editorial team organisation, the first article was published on September 9th 2011.
 
@@ -29,7 +29,7 @@ Several journals have been merged into the European Journal of Taxonomy:
 * Steenstrupia (1970-2012)
 * Zoologische Mededelingen (1915-2014)
 
-## Journal Sponsorship
+### Journal Sponsorship
 
 Nowadays, the journal is funded and published by a consortium of 10 European natural history institutions (NHIs):
 
@@ -46,7 +46,7 @@ Nowadays, the journal is funded and published by a consortium of 10 European nat
 * National Museum of the Czech Republic, Prague, Czech Republic (2019–)
 * The Steinhardt Museum of Natural History, Tel Aviv, Israël (2023–)
 
-## A few statistics
+### A few statistics
 
 |                      | Statistics    |  BLR  |  GBIF  |
 | -------------        | -------------:| -----:| -----: |
@@ -58,3 +58,4 @@ Nowadays, the journal is funded and published by a consortium of 10 European nat
 | Tables               | 2,629         |  100% |  100%  |
 | Material citations   | 255,283       |       |        |
 | Treatment citations  | 41,059        |       |        |
+---------
