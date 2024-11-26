@@ -7,7 +7,7 @@ background:  "{{ site.data.images.acalypha_gillespieae.src }}"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
 cta:
-  - text: Papers
+  - text: Publications
     href: /dataset/search
     isPrimary: true
   - text: Material
