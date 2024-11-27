@@ -4,10 +4,10 @@
   href: /about
 - text: Data
   menu: 
-  - text: Publications
-    href: /dataset/search
   - text: Material
     href: /occurrence/search
+  - text: Publications
+    href: /dataset/search
 - text: Latest issues
   href: https://europeanjournaloftaxonomy.eu/index.php/ejt/issue/archive "target='_blank'"
 - text: News
