@@ -7,9 +7,6 @@ composition:
 config:
   charts:
     [
-      kingdom,
-      phylum,
-      class,
       taxa,
       typeStatus
       synonyms,
