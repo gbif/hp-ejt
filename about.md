@@ -30,7 +30,7 @@ Several journals have been merged into the European Journal of Taxonomy:
 
 ### Journal Sponsorship
 
-The journal is funded and published by a consortium of 9 European natural history institutions (NHIs):
+The journal is funded and published by a consortium of 9 natural history institutions (NHIs):
 
 * National Museum of Natural History, Paris, France (2011–)
 * Meise Botanic Garden, Meise, Belgium (2011–)
