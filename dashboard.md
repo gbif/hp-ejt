@@ -8,7 +8,7 @@ config:
   charts:
     [
       taxa,
-      typeStatus
+      typeStatus,
       synonyms,
       continent,
       country,
