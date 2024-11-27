@@ -16,7 +16,6 @@ config:
       year,
       month,
       recordedBy,
-      identifiedBy,
       collectionKey,
       institutionKey,
       datasetKey,
