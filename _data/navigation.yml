@@ -5,6 +5,7 @@
   - text: What is EJT?
     href: /about
   - text: Dashboard
+    href: /dashboard
 - text: Data
   menu: 
   - text: Occurrences
