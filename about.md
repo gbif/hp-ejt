@@ -1,5 +1,5 @@
 ---
-lang-ref: about
+lang-ref: What is EJT?
 title: What is EJT?
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
