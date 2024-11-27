@@ -14,7 +14,7 @@ var siteConfig = {
       publishingOrg: publisherKey
     },
     excludedFilters: ['anyPublisherKey', 'datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license'],
-    highlightedFilters: ['q', 'taxonKey']
+    highlightedFilters: ['q']
   },
   occurrence: {
     excludedFilters: ['publisherKey', 'publishingCountryCode'],
