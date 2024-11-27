@@ -30,20 +30,23 @@ Several journals have been merged into the European Journal of Taxonomy:
 
 ### Journal Sponsorship
 
-Nowadays, the journal is funded and published by a consortium of 10 European natural history institutions (NHIs):
+The journal is funded and published by a consortium of 9 European natural history institutions (NHIs):
 
 * National Museum of Natural History, Paris, France (2011–)
 * Meise Botanic Garden, Meise, Belgium (2011–)
 * Royal Museum for Central Africa, Tervuren, Belgium (2011–)
-* Natural History Museum, London, United Kingdom (2011–2018)
 * Institute of Natural Sciences, Brussels, Belgium (2011–)
 * Natural History Museum of Denmark, Copenhagen, Denmark (2011–)
 * Naturalis Biodiversity Center, Leiden, The Netherlands (2016–)
 * Museo Nacional de Ciencias Naturales, Madrid, Spain (2017–)
-* Real Jardín Botánico, Madrid, Spain (2017–)
 * Leibniz Institute for the Analysis of Biodiversity Change, Bonn, Germany (2018–)
 * National Museum of the Czech Republic, Prague, Czech Republic (2019–)
 * The Steinhardt Museum of Natural History, Tel Aviv, Israël (2023–)
+
+Former members of the consortium:
+
+* Natural History Museum, London, United Kingdom (2011–2018)
+* Real Jardín Botánico, Madrid, Spain (2017–2022)
 
 ### A few statistics
 
