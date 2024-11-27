@@ -4,9 +4,9 @@
   href: /about
 - text: Data
   menu: 
-  - text: Material
+  - text: Occurrences
     href: /occurrence/search
-  - text: Publications
+  - text: Datasets
     href: /dataset/search
 - text: Latest issues
   href: https://europeanjournaloftaxonomy.eu/index.php/ejt/issue/archive "target='_blank'"
