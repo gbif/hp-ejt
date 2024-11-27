@@ -17,20 +17,9 @@ It provides immediate free open access to its content on the principle that maki
 
 The European Journal of Taxonomy was initiated by a task force of six people from the [EDIT](http://www.e-taxonomy.eu/) (European Distributed Institute of Taxonomy) network who worked together from June 2009 to September 2011 to propose a joint journal that would solve some of the issues identified in shifting from paper to e-only publishing for institutional journals in taxonomy. The task force was given a mandate by the EDIT directors to investigate the need for and feasibility of launching such a joint e-journal. After their investigation, the task force presented a business model involving natural history institutions (NHIs). Five NHIs (National Museum of Natural History, Paris, France; Meise Botanic Garden, Meise, Belgium; Royal Museum for Central Africa, Tervuren, Belgium; Natural History Museum, London, United Kingdom; Institute of Natural Sciences, Brussels, Belgium) offer their financial support and/or their in-kind support (skilled publishing staff, IT staff), which provides autonomy for the journal. After a proofing period of the publishing model, workflow model and editorial team organisation, the first article was published on September 9th 2011.
 
-### Merged titles
-
-Several journals have been merged into the European Journal of Taxonomy:
-
-* Journal of Afrotropical Zoology (2004–2011)
-* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Entomologie (1972–2008)
-* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Biologie (1972–2008)
-* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Sciences de la Terre (1972–2011)
-* Steenstrupia (1970–2012)
-* Zoologische Mededelingen (1915–2014)
-
 ### Journal Sponsorship
 
-The journal is funded and published by a consortium of 9 natural history institutions (NHIs):
+The journal is funded and published by a consortium of 10 natural history institutions (NHIs):
 
 * National Museum of Natural History, Paris, France (2011–)
 * Meise Botanic Garden, Meise, Belgium (2011–)
@@ -48,15 +37,13 @@ Former members of the consortium:
 * Natural History Museum, London, United Kingdom (2011–2018)
 * Real Jardín Botánico, Madrid, Spain (2017–2022)
 
-### A few statistics
+### Merged titles
 
-|                      | Statistics    |  BLR  |  GBIF  |
-| -------------        | -------------:| -----:| -----: |
-| Articles             | 1,488         |  100% |  100%  |
-| Treatments           | 25,961        |  100% |  100%  |
-| New species          | 5,403         |  100% |  100%  |
-| Pages                | 58,303        |  100% |  100%  |
-| Figures              | 22,475        |  100% |  100%  |
-| Tables               | 2,629         |  100% |  100%  |
-| Material citations   | 255,283       |  100% |  100%  |
-| Treatment citations  | 41,059        |  100% |  100%  |
+Several journals have been merged into the European Journal of Taxonomy:
+
+* Journal of Afrotropical Zoology (2004–2011)
+* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Entomologie (1972–2008)
+* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Biologie (1972–2008)
+* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Sciences de la Terre (1972–2011)
+* Steenstrupia (1970–2012)
+* Zoologische Mededelingen (1915–2014)
