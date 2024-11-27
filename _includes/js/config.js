@@ -14,11 +14,11 @@ var siteConfig = {
       publishingOrg: publisherKey
     },
     excludedFilters: ['anyPublisherKey', 'datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license'],
-    highlightedFilters: ['q', 'year']
+    highlightedFilters: ['q']
   },
   occurrence: {
     excludedFilters: ['publisherKey', 'publishingCountryCode'],
-    highlightedFilters: ['features', 'country', 'year'],
+    highlightedFilters: ['taxonKey', 'country', 'year', 'datasetKey'],
     mapSettings: {
       lat: 0,
       lng: 0,
