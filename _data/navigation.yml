@@ -1,7 +1,10 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /about
+  menu:
+  - text: What is EJT?
+    href: /about
+  - text: Dashboard
 - text: Data
   menu: 
   - text: Occurrences
