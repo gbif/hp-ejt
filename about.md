@@ -1,14 +1,11 @@
 ---
 lang-ref: about
-title: About
+title: What is EJT?
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
 ---
-
-### What is EJT?
-
 The European Journal of Taxonomy is a fully refereed, international, fully electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), and palaeontology.
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
