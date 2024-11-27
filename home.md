@@ -9,7 +9,7 @@ height: 90vh
 cta:
   - text: Material
     href: /occurrence/search
-    - text: Publications
+  - text: Publications
     href: /dataset/search
     isPrimary: true
 composition:
