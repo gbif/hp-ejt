@@ -22,11 +22,11 @@ The European Journal of Taxonomy was initiated by a task force of six people fro
 Several journals have been merged into the European Journal of Taxonomy:
 
 * Journal of Afrotropical Zoology (2004–2011)
-* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Entomologie (1972-2008)
-* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Biologie (1972-2008)
-* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Sciences de la Terre (1972-2011)
-* Steenstrupia (1970-2012)
-* Zoologische Mededelingen (1915-2014)
+* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Entomologie (1972–2008)
+* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Biologie (1972–2008)
+* Bulletin de l'Institut royal des Sciences naturelles de Belgique - Sciences de la Terre (1972–2011)
+* Steenstrupia (1970–2012)
+* Zoologische Mededelingen (1915–2014)
 
 ### Journal Sponsorship
 
