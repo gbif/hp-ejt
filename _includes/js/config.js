@@ -22,7 +22,7 @@ var siteConfig = {
     mapSettings: {
       lat: 0,
       lng: 0,
-      zoom: 0
+      zoom: 10
     },
     // all the columns that are available to the user. This array defines the order they appear in. By default all all column are available.
     availableTableColumns: ['features', 'country', 'stateProvince', 'locality', 'coordinates', 'year', 'eventDate', 'recordedBy', 'identifiedBy', 'recordNumber', 'catalogNumber', 'collectionCode', 'institutionCode', 'dataset'],
