@@ -18,6 +18,7 @@ config:
       collectionKey,
       institutionKey,
       typeStatus,
+      iucn,
       datasetKey,
       occurrenceSummary,
       dataquality,
