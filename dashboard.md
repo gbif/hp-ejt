@@ -24,6 +24,6 @@ config:
       dataQuality,
       sex,
       individualCount,
-      organismQuantity,
+      materialCitation,
     ]
 ---
