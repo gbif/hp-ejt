@@ -1,6 +1,6 @@
 ---
 title: Dashboard
-description: GBIF Data Dashboard
+description: Data Graphs
 layout: compose
 composition:
   - type: dashboard
@@ -8,7 +8,6 @@ config:
   charts:
     [
       taxa,
-      typeStatus,
       synonyms,
       continent,
       country,
@@ -18,6 +17,7 @@ config:
       recordedBy,
       collectionKey,
       institutionKey,
+      typeStatus,
       datasetKey,
       occurrenceSummary
     ]
