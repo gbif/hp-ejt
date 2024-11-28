@@ -22,7 +22,6 @@ config:
       datasetKey,
       occurrenceSummary,
       dataQuality,
-      materialCitation,
       sex,
       individualCount,
       organismQuantity,
