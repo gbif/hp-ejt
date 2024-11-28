@@ -19,6 +19,7 @@ config:
       institutionKey,
       typeStatus,
       datasetKey,
-      occurrenceSummary
+      occurrenceSummary,
+      dataquality,
     ]
 ---
