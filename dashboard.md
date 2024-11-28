@@ -21,6 +21,6 @@ config:
       iucn,
       datasetKey,
       occurrenceSummary,
-      dataquality,
+      dataQuality,
     ]
 ---
