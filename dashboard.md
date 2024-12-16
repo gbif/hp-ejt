@@ -9,6 +9,7 @@ config:
     [
       taxa,
       synonyms,
+      sampleSizeUnit,
       continent,
       country,
       stateProvince,
@@ -21,6 +22,7 @@ config:
       iucn,
       datasetKey,
       occurrenceSummary,
+      occurrenceIssue,
       dataQuality,
     ]
 ---
