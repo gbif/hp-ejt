@@ -9,7 +9,6 @@ config:
     [
       taxa,
       synonyms,
-      sampleSizeUnit,
       continent,
       country,
       stateProvince,
