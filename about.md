@@ -6,7 +6,7 @@ imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
 ---
-The European Journal of Taxonomy is a fully refereed, international, fully electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), and paleontology.
+The European Journal of Taxonomy is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), and paleontology.
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
