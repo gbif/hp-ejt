@@ -16,7 +16,7 @@ The European Journal of Taxonomy was initiated by a task force of six people fro
 
 ### Journal data
 
-From its launch, the European Journal of Taxonomy has committed to ensuring the findability, accessibility, interoperability, and reusability (FAIR principles) of its data. In 2017, the consortium partnered with the non-profit organization [Plazi](https://www.gbif.org/publisher/7ce8aef0-9e92-11dc-8738-b8a03c50a862) to retroconvert the metadata of articles published in PDF format, along with the taxonomic treatments they contain, into XML Taxpub format. To ensure adequate granularity, the journal also adopted a new standard for formatting the examined taxon data ([Chester et al 2019](https://doi.org/10.5852/ejt.2019.586)).
+From its launch, the European Journal of Taxonomy has committed to ensuring the findability, accessibility, interoperability, and reusability (FAIR principles) of its data. In 2017, the consortium partnered with the non-profit organization [Plazi](https://www.gbif.org/publisher/7ce8aef0-9e92-11dc-8738-b8a03c50a862) to retroconvert the metadata of articles published in PDF format, along with the taxonomic treatments they contain, into XML Taxpub format. To ensure adequate granularity, the journal also adopted a new standard for formatting the examined taxon data ([Chester et al. 2019](https://doi.org/10.5852/ejt.2019.586)).
 
 ### Journal Sponsorship
 
