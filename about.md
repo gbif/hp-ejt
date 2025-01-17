@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: What is EJT?
-background: /assets/images/placeholders/moss.jpg
+background: /assets/images/placeholders/about.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
