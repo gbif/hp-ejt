@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: European Journal of Taxonomy
 description: Browse data extracted from our publications
-background:  "{{ site.data.images.placeholders.banner.src }}"
+background:  /assets/images/placeholders/banner.png
 imageLicense: "{{ site.data.images.banner.caption }}"
 height: 90vh
 cta:
