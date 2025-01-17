@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: What is EJT?
-background: /assets/images/placeholders/whatisejt.jpg
+background: /assets/images/placeholders/whatsejt.jpg
 imageLicense: Holotype of _Microphotina cristalino_ Lanna _et al._ 2023 (MPEG05050654).
 height: 70vh
 ---
