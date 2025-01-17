@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: European Journal of Taxonomy
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/banner.png
+background: /assets/images/placeholders/banner.jpg
 imageLicense: Paratype of _Cyrtodactylus chungi_ Ostrowski _et al._ 2021
 height: 90vh
 cta:
