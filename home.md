@@ -3,8 +3,8 @@ lang-ref: home
 layout: home
 title: European Journal of Taxonomy
 description: Browse data extracted from our publications
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+background:  "{{ site.data.images.banner.png }}"
+imageLicense: "{{ site.data.images.banner.caption }}"
 height: 90vh
 cta:
   - text: Material
