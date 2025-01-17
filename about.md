@@ -1,9 +1,8 @@
 ---
 lang-ref: about
 title: What is EJT?
-background: /assets/images/placeholders/about.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+background: /assets/images/placeholders/whatisejt.jpg
+imageLicense: Holotype of _Microphotina cristalino_ Lanna _et al._ 2023 (MPEG05050654).
 height: 70vh
 ---
 The European Journal of Taxonomy is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and paleontology.
