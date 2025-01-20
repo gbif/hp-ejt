@@ -4,6 +4,7 @@ date: 2025-1-20 16:50:42 +0200
 categories: feedback
 lang-ref: Share your feedback
 background: assets/images/placeholders/sharefeedback.jpg
+imageLicense: Specimen of _Zavattariornis stresemanni_ Moltoni, 1938.
 ---
 
 [As we explained a short while ago](https://ejt.hp.gbif-staging.org/post/2025/launch/), the GBIF hosted portal for the European Journal of Taxonomy is now live.
