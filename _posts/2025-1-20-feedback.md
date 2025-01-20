@@ -10,4 +10,4 @@ background: assets/images/placeholders/sharefeedback.jpg
 
 We'd love to hear from users about this new tool designed for the community. You can submit your suggestions on [GitHub](https://github.com/gbif/hp-ejt/issues) or by email at [ejteditorialoffice@gmail.com](mailto:ejteditorialoffice@gmail.com).
 
-You can also report errors directly from the dataset/occurrence pages or to [sautter@plazi.org](mailto:sautter@plazi.org) so that they can be corrected as soon as possible.
+You can also report errors directly from the dataset/occurrence pages or at [sautter@plazi.org](mailto:sautter@plazi.org) so that they can be corrected as soon as possible.
