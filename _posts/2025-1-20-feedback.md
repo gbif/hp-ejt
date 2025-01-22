@@ -11,4 +11,4 @@ imageLicense: Specimen of _Zavattariornis stresemanni_ Moltoni, 1938.
 
 We'd love to hear from users about this new tool designed for the community. You can submit your suggestions on [GitHub](https://github.com/gbif/hp-ejt/issues) or at [ejteditorialoffice@gmail.com](mailto:ejteditorialoffice@gmail.com).
 
-You can also report errors directly from the dataset/occurrence pages or at [sautter@plazi.org](mailto:sautter@plazi.org) so that they can be corrected as soon as possible.
+You can also report errors directly from the dataset/occurrence pages or at [sautter@plazi.org](mailto:sautter@plazi.org) so that they will be corrected in due course.
