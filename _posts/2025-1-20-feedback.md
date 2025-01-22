@@ -9,6 +9,6 @@ imageLicense: Specimen of _Zavattariornis stresemanni_ Moltoni, 1938.
 
 [As we explained a short while ago](https://ejt.hp.gbif-staging.org/post/2025/launch/), the GBIF hosted portal for the European Journal of Taxonomy is now live.
 
-We'd love to hear from users about this new tool designed for the community. You can submit your suggestions on [GitHub](https://github.com/gbif/hp-ejt/issues) or by email at [ejteditorialoffice@gmail.com](mailto:ejteditorialoffice@gmail.com).
+We'd love to hear from users about this new tool designed for the community. You can submit your suggestions on [GitHub](https://github.com/gbif/hp-ejt/issues) or at [ejteditorialoffice@gmail.com](mailto:ejteditorialoffice@gmail.com).
 
 You can also report errors directly from the dataset/occurrence pages or at [sautter@plazi.org](mailto:sautter@plazi.org) so that they can be corrected as soon as possible.
