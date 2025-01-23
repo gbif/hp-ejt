@@ -1,18 +1,16 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  menu:
-  - text: What is EJT?
-    href: /about
-  - text: Dashboard
-    href: /dashboard
+  href: /about
+- text: Dashboard
+  href: /dashboard
 - text: Data
   menu: 
   - text: Occurrences
     href: /occurrence/search
   - text: Datasets
     href: /dataset/search
-- text: Latest issues
-  href: https://europeanjournaloftaxonomy.eu/index.php/ejt/issue/archive "target='_blank'"
 - text: News
   href: /news/
+- text: Volumes
+  href: https://europeanjournaloftaxonomy.eu/index.php/ejt/issue/archive "target='_blank'"
