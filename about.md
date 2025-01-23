@@ -1,7 +1,7 @@
 ---
 lang-ref: about
-title: What is EJT?
-background: /assets/images/placeholders/whatsejt.jpg
+title: About
+background: /assets/images/placeholders/about.jpg
 imageLicense: Specimen of _Doris marmorata_ Risso, 1818 (ZSMMol20210023).
 height: 70vh
 ---
