@@ -5,7 +5,7 @@ background: /assets/images/placeholders/about.jpg
 imageLicense: Specimen of _Doris marmorata_ Risso, 1818 (ZSMMol20210023).
 height: 70vh
 ---
-The European Journal of Taxonomy is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and paleontology.
+The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and paleontology.
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
@@ -17,7 +17,7 @@ The European Journal of Taxonomy was initiated by a task force of six people fro
 
 From its launch, the European Journal of Taxonomy has committed to ensuring the findability, accessibility, interoperability, and reusability (FAIR principles) of its data.
 
-In 2017, the consortium partnered with the non-profit organization [Plazi](https://www.gbif.org/publisher/7ce8aef0-9e92-11dc-8738-b8a03c50a862) to retroconvert the metadata of articles published in PDF format, along with the taxonomic treatments and material citations they contain, into XML Taxpub format. To ensure adequate granularity, the journal adopted a new standard for formatting the material ([Chester et al. 2019](https://doi.org/10.5852/ejt.2019.586)). The articles, as well as the associated treatments, figures, and metadata, are deposited in the [Biodiversity Literature Repository](https://zenodo.org/communities/biosyslit) (Zenodo) to be disseminated across various relevant databases, such as [GBIF](https://www.gbif.org/) and [ChecklistBank](https://www.checklistbank.org/).
+In 2017, the consortium partnered with the non-profit organization [Plazi](https://plazi.org/) to retroconvert the metadata of articles published in PDF format, along with the taxonomic treatments and material citations they contain, into XML Taxpub format. To ensure adequate granularity, the journal adopted a new standard for formatting the material ([Chester et al. 2019](https://doi.org/10.5852/ejt.2019.586)). The articles, as well as the associated treatments, figures, and metadata, are deposited in the [Biodiversity Literature Repository](https://zenodo.org/communities/biosyslit) (Zenodo) to be disseminated across various relevant databases, such as [GBIF](https://www.gbif.org/) and [ChecklistBank](https://www.checklistbank.org/).
 
 However, it should be noted that this workflow has certain limitations. The retroconversion of an unstructured article, despite the use of quality control tools, may lead to slight discrepancies. GBIF has introduced a feedback mechanism for each material citation, allowing users to alert Plazi about erroneous conversions, which will be corrected in due course.
 
