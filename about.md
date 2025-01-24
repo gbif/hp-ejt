@@ -2,7 +2,7 @@
 lang-ref: about
 title: About
 background: /assets/images/placeholders/bathrachospermum_gelatinosum.jpg
-imageLicense: _Bathrachospermum gelatinosum_ gametophytes on a log at Cedar Bog in Ohio by Stacy A. Krueger-Hadfield.
+imageLicense: _Bathrachospermum gelatinosum_ gametophytes on a log at Cedar Bog in Ohio. Photo taken by Stacy A. Krueger-Hadfield.
 height: 70vh
 ---
 The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and paleontology.
