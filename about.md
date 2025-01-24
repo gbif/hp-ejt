@@ -1,8 +1,8 @@
 ---
 lang-ref: about
 title: About
-background: /assets/images/placeholders/Bathrachospermum_gelatinosum.jpg
-imageLicense: Specimen of _Doris marmorata_ Risso, 1818 (ZSMMol20210023).
+background: /assets/images/placeholders/bathrachospermum_gelatinosum.jpg
+imageLicense: _Bathrachospermum gelatinosum_ gametophytes on a log at Cedar Bog in Ohio. Photo credit: Stacy A. Krueger-Hadfield.
 height: 70vh
 ---
 The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and paleontology.
