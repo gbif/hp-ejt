@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-background: /assets/images/placeholders/amansia_glomerata.png
+background: /assets/images/placeholders/Bathrachospermum_gelatinosum.jpg
 imageLicense: Specimen of _Doris marmorata_ Risso, 1818 (ZSMMol20210023).
 height: 70vh
 ---
