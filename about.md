@@ -21,7 +21,7 @@ In 2017, the consortium partnered with the non-profit organization [Plazi](https
 
 However, it should be noted that this workflow has certain limitations. The retroconversion of an unstructured article, despite the use of quality control tools, may lead to slight discrepancies. GBIF has introduced a feedback mechanism for each material citation, allowing users to alert Plazi about erroneous conversions, which will be corrected in due course.
 
-To prevent discrepancies and enrich articles, EJT initiated the development of a new workflow based on the XML-first approach (MetoTaxa), in collaboration with Plazi and the University of Caen-Normandie. After several years of development, testing, and improvements, the tool will be deployed in 2025.
+To prevent discrepancies and enrich articles, EJT initiated the development of a new workflow based on the XML-first approach (MetoTaxa), in collaboration with Plazi and the University of Caen-Normandie. After several years of development, testing, and improvements, the tool will be released in 2025.
 
 ### Journal sponsorship
 
