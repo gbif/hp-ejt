@@ -5,7 +5,7 @@ background: /assets/images/placeholders/about.jpg
 imageLicense: Specimen of _Doris marmorata_ Risso, 1818 (ZSMMol20210023).
 height: 70vh
 ---
-The European Journal of Taxonomy is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and paleontology.
+The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and paleontology.
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
