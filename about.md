@@ -25,7 +25,7 @@ To prevent discrepancies and enrich articles, EJT initiated the development of a
 
 ### Journal sponsorship
 
-The journal is funded and published by a consortium of 10 natural history institutions (NHIs):
+The journal is funded and published by a consortium of [CETAF](https://cetaf.org/) European natural history institutions (NHIs):
 
 * National Museum of Natural History, Paris, France (2011–)
 * Meise Botanic Garden, Meise, Belgium (2011–)
