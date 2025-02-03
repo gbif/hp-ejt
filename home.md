@@ -7,7 +7,7 @@ background: /assets/images/placeholders/banner.jpg
 imageLicense: Paratype of _Cyrtodactylus chungi_ Ostrowski _et al._, 2021, ♀ (IEBR4582). Photo T.M. Phung (CC BY 4.0).
 height: 90vh
 cta:
-  - text: Material
+  - text: Material citations
     href: /occurrence/search
   - text: Publications
     href: /dataset/search
