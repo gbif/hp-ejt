@@ -13,7 +13,7 @@ var siteConfig = {
     rootFilter: {
       publishingOrg: publisherKey
     },
-    excludedFilters: ['anyPublisherKey', 'datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license'],
+    excludedFilters: ['anyPublisherKey', 'datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license', 'projectID'],
     highlightedFilters: ['q']
   },
   occurrence: {
