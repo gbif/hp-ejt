@@ -5,7 +5,7 @@ date: 2025-3-3 13:00 +0100
 categories: announcement
 lang-ref: Disentis Roadmap
 ---
-## Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications
+### Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications
 
 Some of the world’s leading institutions, experts and scientific infrastructures relating to biodiversity information are uniting around a new 10-year roadmap to ‘liberate’ data presently trapped in research publications.
 
@@ -34,7 +34,7 @@ Donat Agosti of the Swiss organization Plazi, who convened the Disentis symposiu
 
 A recent demonstration of the principles of the ‘Libroscope’ was the launch of data portals for the [_European Journal of Taxonomy_](https://data.europeanjournaloftaxonomy.eu/) (_EJT_) and the [_Biodiversity Data Journal_](https://data.bdj.pensoft.net/), as part of the [GBIF hosted portal programme](https://www.gbif.org/hosted-portals). The new portals showcase the data contained within taxonomic literature published by the journals, making use of the workflow originally developed by [Plazi](https://plazi.org/) and partners to extract re-usable data from articles traditionally locked in static PDF files. Once created, these data objects then flow into platforms such as [GBIF](https://www.gbif.org/dataset/search?publishing_org=a064f300-1bc8-41ea-9364-b864ef4e8938), [Catalogue of Life](https://www.catalogueoflife.org/), [ChecklistBank](https://www.checklistbank.org/) and the [BiodiversityPMC](https://biodiversitypmc.sibils.org/), and are stored in the [Biodiversity Literature Repository](https://biolitrepo.org/) at [Zenodo](https://zenodo.org/) hosted by [CERN](https://home.cern/). This process enables data on new species and the location of related specimens cited in the literature to be openly accessible in near-real time, and available for long-term access.
 
->“By repositioning scientific publications as an essential part of the research cycle, the Disentis Roadmap encourages publishers and the scientific community to move beyond open access towards FAIR access,” said Laurence Bénichou, founder and liaison officer of the European Journal of Taxonomy. “Proactively ensuring data quality and dissemination is the core mission of the European Journal of Taxonomy. In this way, EJT enhances the immediate discoverability and usability of the taxonomic information it publishes, making it more valuable to the scientific community as a whole. Adherence to the Disentis vision marks a crucial step in the liberation and enrichment of knowledge about biodiversity.”
+>“By repositioning scientific publications as an essential part of the research cycle, the Disentis Roadmap encourages publishers and the scientific community to move beyond open access towards FAIR access,” said Laurence Bénichou, founder and liaison officer of the _European Journal of Taxonomy_. “Proactively ensuring data quality and dissemination is the core mission of the _European Journal of Taxonomy_. In this way, _EJT_ enhances the immediate discoverability and usability of the taxonomic information it publishes, making it more valuable to the scientific community as a whole. Adherence to the Disentis vision marks a crucial step in the liberation and enrichment of knowledge about biodiversity.”
 
 >The Chief Executive Officer of Meise Botanic Garden, Steven Dessein, who attended the Disentis Symposium, commented: “Meise Botanic Garden fully supports the Disentis Roadmap, which builds on the foundation laid by the Bouchout Declaration. Open biodiversity data is essential to tackling today’s pressing environmental challenges, from biodiversity loss to climate change.”
 
@@ -44,7 +44,7 @@ A recent demonstration of the principles of the ‘Libroscope’ was the launch 
 
 >The director of the Botanic Garden and Botanical Museum of Berlin, Thomas Borsch, noted that more than any other branch of science, taxonomic research depended on the machine-actionable availability of biodiversity data from the literature. “The ‘Libroscope’ postulated in the Disentis Roadmap will enable a new generation of research workflows through its interoperable approach,” said Professor Borsch. “This will be very helpful to address pressing issues in biodiversity research and in particular to improve the use of quality information on organisms in national and global assessments.”
 
->The chief scientist of the national museum of natural history in Paris (MNHN) said: “We, like all similar museums and taxonomic institutions, are focussed on linking taxonomic and collection data with digital reproductions and molecular information to create the ‘extended digital specimen.’ However, the potential of taxonomic publications and text mining should not be underestimated either. On the contrary, it is a smart and accessible way to dig into scientific publications so as to retrieve, link and consolidate, research data of great relevance to many disciplines. This is why our institution fully supports the Disentis initiative.”
+>The chief scientist of the National Museum of Natural History in Paris (MNHN) said: “We, like all similar museums and taxonomic institutions, are focussed on linking taxonomic and collection data with digital reproductions and molecular information to create the ‘extended digital specimen.’ However, the potential of taxonomic publications and text mining should not be underestimated either. On the contrary, it is a smart and accessible way to dig into scientific publications so as to retrieve, link and consolidate, research data of great relevance to many disciplines. This is why our institution fully supports the Disentis initiative.”
 
 >Christos Arvanitidis, CEO of the Biodiversity and Ecosystem e-Science Infrastructure LifeWatch ERIC, commented: “LifeWatch ERIC is proud to be part of this initiative, as providing access and support to biodiversity and ecosystem data is fully aligned with our mission. The Disentis Roadmap opens up new opportunities for our research infrastructure to help make what science has provided us accessible and usable, and to improve the FAIRness of data for research and science-based policy.”
 
@@ -54,6 +54,6 @@ A recent demonstration of the principles of the ‘Libroscope’ was the launch 
 
 >Olaf Bánki, Executive Director of the Catalogue of Life, commented: “We call out to the scientific community, especially the younger generation, to join our effort in unlocking biodiversity data from literature. Actionable biodiversity and taxonomic data from digitized literature contributes to creating an index of all described organisms of all life on earth. We need such data to tackle and understand the current biodiversity crisis.”
 
-For further information, contact:
-[Donat Agosti](mailto:agosti@plazi.org)
-[Tim Hirsch](mailto:tim@timhirsch-consulting.com)
+For further information, contact:</br>
+[Donat Agosti](mailto:agosti@plazi.org)</br>
+[Tim Hirsch](mailto:tim@timhirsch-consulting.com)</br>
