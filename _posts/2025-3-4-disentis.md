@@ -1,10 +1,11 @@
 ---
-title: "Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications"
+title: >-
+  Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications
 preTitle: March 4, 2025
-Description: The European Journal of Taxonomy is honored to be one of the first signatories of the Disentis Roadmap, dedicated to liberating biodiversity knwoledge from scientific publications.
+Description: The _European Journal of Taxonomy_ is honored to be one of the first signatories of the Disentis Roadmap, dedicated to liberating biodiversity knwoledge from scientific publications.
 date: 2025-3-3 13:00 +0100
 categories: announcement
-lang-ref: Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications
+lang-ref:
 background: assets/images/placeholders/disentis.jpg
 ---
 Some of the world’s leading institutions, experts and scientific infrastructures relating to biodiversity information are uniting around a new 10-year roadmap to ‘liberate’ data presently trapped in research publications.
