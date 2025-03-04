@@ -4,6 +4,7 @@ preTitle: March 4, 2025
 date: 2025-3-3 13:00 +0100
 categories: announcement
 lang-ref: Disentis Roadmap
+background: assets/images/placeholders/disentis.png
 ---
 ### Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications
 
