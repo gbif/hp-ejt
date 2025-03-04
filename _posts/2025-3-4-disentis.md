@@ -1,13 +1,12 @@
 ---
-title: "Disentis Roadmap"
+title: "Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications"
 preTitle: March 4, 2025
+Description: The _European Journal of Taxonomy_ is honored to be one of the first signatories of the Disentis Roadmap, dedicated to liberating biodiversity knwoledge from scientific publications.
 date: 2025-3-3 13:00 +0100
 categories: announcement
-lang-ref: Disentis Roadmap
+lang-ref: Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications
 background: assets/images/placeholders/disentis.jpg
 ---
-### Meet the Libroscope: a new vision for ‘liberating’ data from biodiversity publications
-
 Some of the world’s leading institutions, experts and scientific infrastructures relating to biodiversity information are uniting around a new 10-year roadmap to ‘liberate’ data presently trapped in research publications.
 
 The initiative aims to enable the creation of a ‘Libroscope’ - a mechanism for unlocking and linking data from scientific literature to support understanding of biodiversity, as the microscope and telescope previously revolutionized science. The plan largely builds on existing technology and workflows, and does not rely on construction of a new technical infrastructure.
@@ -37,9 +36,7 @@ A recent demonstration of the principles of the ‘Libroscope’ was the launch 
 
 >“By repositioning scientific publications as an essential part of the research cycle, the Disentis Roadmap encourages publishers and the scientific community to move beyond open access towards FAIR access,” said Laurence Bénichou, founder and liaison officer of the _European Journal of Taxonomy_. “Proactively ensuring data quality and dissemination is the core mission of the _European Journal of Taxonomy_. In this way, _EJT_ enhances the immediate discoverability and usability of the taxonomic information it publishes, making it more valuable to the scientific community as a whole. Adherence to the Disentis vision marks a crucial step in the liberation and enrichment of knowledge about biodiversity.”
 
->The Chief Executive Officer of Meise Botanic Garden, Steven Dessein, who attended the Disentis Symposium, commented: “Meise Botanic Garden fully supports the Disentis Roadmap, which builds on the foundation laid by the Bouchout Declaration. Open biodiversity data is essential to tackling today’s pressing environmental challenges, from biodiversity loss to climate change.”
-
->“By ensuring research publications become more accessible and interconnected, this roadmap represents a critical step toward harnessing biodiversity knowledge for science, policy, and conservation.”
+>The Chief Executive Officer of Meise Botanic Garden, Steven Dessein, who attended the Disentis Symposium, commented: “Meise Botanic Garden fully supports the Disentis Roadmap, which builds on the foundation laid by the Bouchout Declaration. Open biodiversity data is essential to tackling today’s pressing environmental challenges, from biodiversity loss to climate change. By ensuring research publications become more accessible and interconnected, this roadmap represents a critical step toward harnessing biodiversity knowledge for science, policy, and conservation.”
 
 >Christophe Déssimoz, Executive Director of the SIB Swiss Institute of Bioinformatics, another signatory of the Disentis Roadmap, added: “We have long championed the principles of open, structured, and interoperable data to advance life sciences. The Disentis Roadmap applies these same principles to biodiversity knowledge, ensuring that critical data is not just available, but truly actionable for research, policy, and conservation.”
 
