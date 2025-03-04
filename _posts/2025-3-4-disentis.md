@@ -55,6 +55,6 @@ A recent demonstration of the principles of the ‘Libroscope’ was the launch 
 
 >Olaf Bánki, Executive Director of the Catalogue of Life, commented: “We call out to the scientific community, especially the younger generation, to join our effort in unlocking biodiversity data from literature. Actionable biodiversity and taxonomic data from digitized literature contributes to creating an index of all described organisms of all life on earth. We need such data to tackle and understand the current biodiversity crisis.”
 
-For further information, contact:</br>
-[Donat Agosti](mailto:agosti@plazi.org)</br>
-[Tim Hirsch](mailto:tim@timhirsch-consulting.com)</br>
+For further information, contact:<br>
+[Donat Agosti](mailto:agosti@plazi.org)<br>
+[Tim Hirsch](mailto:tim@timhirsch-consulting.com)<br>
