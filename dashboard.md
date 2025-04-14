@@ -8,6 +8,7 @@ config:
   charts:
     [
       taxa,
+      nomenclaturalStatus,
       synonyms,
       continent,
       country,
