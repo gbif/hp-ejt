@@ -7,7 +7,7 @@ const publisherKey = 'a064f300-1bc8-41ea-9364-b864ef4e8938';
 var siteConfig = {
   routes: {
     alwaysUseHrefs: false,
-    enabledRoutes: ['occurrenceSearch', 'datasetSearch', 'datasetKey'],
+    enabledRoutes: ['occurrenceSearch', 'datasetSearch', 'datasetKey', 'literatureSearch'],
   },
   dataset: {
     rootFilter: {
@@ -34,5 +34,28 @@ var siteConfig = {
     rootPredicate: { type: 'equals', key: 'publishingOrg', value: publisherKey }, 
     occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS', 'CLUSTERS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
+  },
+  literature: {
+    rootFilter: {
+      predicate: {
+        type: 'and', predicates: [
+          {
+            type: 'in',
+            key: 'publishingOrganizationKey',
+            values: [publisherKey]
+          },
+          {
+            type: 'equals',
+            key: 'relevance',
+            value: 'GBIF_USED'
+          },
+          {
+            type: 'equals',
+            key: 'peerReview',
+            value: 'true'
+          }
+        ]
+      }
+    }
   }
-};
+}
