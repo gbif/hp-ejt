@@ -33,7 +33,7 @@ The journal is funded and published by a consortium of [CETAF](https://cetaf.org
 * Institute of Natural Sciences, Brussels, Belgium (2011–)
 * Natural History Museum of Denmark, Copenhagen, Denmark (2011–)
 * Naturalis Biodiversity Center, Leiden, The Netherlands (2016–)
-* Museo Nacional de Ciencias Naturales, Madrid, Spain (2017–)
+* National Museum of Natural Sciences, Madrid, Spain (2017–)
 * Leibniz Institute for the Analysis of Biodiversity Change, Bonn, Germany (2018–)
 * National Museum of the Czech Republic, Prague, Czech Republic (2019–)
 * The Steinhardt Museum of Natural History, Tel Aviv, Israel (2023–)
@@ -41,7 +41,7 @@ The journal is funded and published by a consortium of [CETAF](https://cetaf.org
 Former members of the consortium:
 
 * Natural History Museum, London, United Kingdom (2011–2018)
-* Real Jardín Botánico, Madrid, Spain (2017–2022)
+* Royal Botanical Garden, Madrid, Spain (2017–2022)
 
 ### Merged titles
 
