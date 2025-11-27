@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-background: /assets/images/placeholders/barbus_capensis.jpg
+background: /assets/images/placeholders/Barbus_capensis.jpg
 imageLicense: _Passiflora cerasina_ Annonay & Feuillet.
 height: 70vh
 ---
