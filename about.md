@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-background: /assets/images/placeholders/planthp.jpg
+background: /assets/images/placeholders/Acanthosaura.jpg
 imageLicense:
 height: 70vh
 ---
