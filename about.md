@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-background: /assets/images/placeholders/planthopper.jpg
+background: /assets/images/placeholders/planthp.jpg
 imageLicense:
 height: 70vh
 ---
