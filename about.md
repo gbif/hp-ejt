@@ -2,7 +2,7 @@
 lang-ref: about
 title: About
 background: /assets/images/placeholders/porcellionides.jpg
-imageLicense: _Porcellionides ibericus_ Cifuentes & Da Silva, 2024. Photo Julio Cifuentes and Luís P. Da Silva (CC-BY 4.0).
+imageLicense: _Porcellionides ibericus_ Cifuentes & Da Silva, 2024. Photo J. Cifuentes and L.P. Da Silva (CC-BY 4.0).
 height: 70vh
 ---
 The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and palaeontology.
@@ -21,7 +21,7 @@ In 2017, the consortium partnered with Swiss-based organization [Plazi](https://
 
 However, it should be noted that this workflow has certain limitations. The retroconversion of an unstructured article, despite the use of quality control tools, may lead to slight discrepancies. GBIF has introduced a feedback mechanism for each material citation, allowing users to alert Plazi about erroneous conversions, which will be corrected in due course. Catalogue of Life users and editors regularly check the data quality of the taxonomic data from digitized literature and report issues to the Plazi team as well.
 
-To prevent discrepancies and enrich articles, EJT initiated the development of a new workflow based on the XML-first approach (MetoTaxa), in collaboration with Plazi and the University of Caen-Normandie. After several years of development, testing, and improvements, the tool will be released in 2025.
+To prevent discrepancies and enrich articles, EJT initiated the development of a new workflow based on the XML-first approach (MetoTaxa), in collaboration with Plazi and the University of Caen-Normandie. After several years of development, testing, and improvements, the tool will be released in 2026.
 
 ### Journal sponsorship
 
