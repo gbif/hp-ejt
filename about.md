@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-background: /assets/images/placeholders/porcellionides_ibericus.jpg
+background: /assets/images/placeholders/porcellionides.jpg
 imageLicense:
 height: 70vh
 ---
