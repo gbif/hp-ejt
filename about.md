@@ -5,7 +5,7 @@ background: /assets/images/placeholders/porcellionides.jpg
 imageLicense: _Porcellionides ibericus_ Cifuentes & Da Silva, 2024. Photo J. Cifuentes and L.P. Da Silva (CC-BY 4.0).
 height: 70vh
 ---
-The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and palaeontology.
+The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic and diamond open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and palaeontology.
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
@@ -17,15 +17,15 @@ The European Journal of Taxonomy was initiated by a task force of six people fro
 
 From its launch, the European Journal of Taxonomy has committed to ensuring the findability, accessibility, interoperability, and reusability (FAIR principles) of its data.
 
-In 2017, the consortium partnered with Swiss-based organization [Plazi](https://plazi.org/) to retroconvert the metadata of articles published in PDF format, along with the taxonomic treatments and material citations they contain, into XML Taxpub format. To ensure adequate granularity, the journal adopted a new standard for formatting the material ([Chester et al. 2019](https://doi.org/10.5852/ejt.2019.586)). The articles, as well as the associated treatments, figures, and metadata, are deposited in the [Biodiversity Literature Repository](https://zenodo.org/communities/biosyslit) (Zenodo) to be disseminated across various relevant data infrastructures, such as [GBIF](https://www.gbif.org/) and [Catalogue of Life](https://www.catalogueoflife.org/), and the shared [ChecklistBank](https://www.checklistbank.org/).
+In 2017, the consortium partnered with the Swiss-based organization [Plazi](https://plazi.org/) to retroconvert the metadata of articles published in PDF format, along with the taxonomic treatments and material citations they contain, into XML Taxpub format. To ensure adequate granularity, the journal adopted a new standard for formatting the material ([Chester et al. 2019](https://doi.org/10.5852/ejt.2019.586)). The articles, as well as the associated treatments, figures, and metadata, are deposited in the [Biodiversity Literature Repository](https://zenodo.org/communities/biosyslit) (Zenodo) to be disseminated across various relevant data infrastructures, such as [GBIF](https://www.gbif.org/) and [Catalogue of Life](https://www.catalogueoflife.org/), and the shared [ChecklistBank](https://www.checklistbank.org/).
 
-However, it should be noted that this workflow has certain limitations. The retroconversion of an unstructured article, despite the use of quality control tools, may lead to slight discrepancies. GBIF has introduced a feedback mechanism for each material citation, allowing users to alert Plazi about erroneous conversions, which will be corrected in due course. Catalogue of Life users and editors regularly check the data quality of the taxonomic data from digitized literature and report issues to the Plazi team as well.
+For legacy literature, this workflow may have limitations. Indeed, the retroconversion of an unstructured article, despite the use of quality control tools, may lead to slight discrepancies. GBIF has introduced a feedback mechanism for each material citation, allowing users to alert Plazi about erroneous conversions, which will be corrected in due course. Catalogue of Life users and editors regularly check the data quality of the taxonomic data from digitized literature and report issues to the Plazi team.
 
-To prevent discrepancies and enrich articles, EJT initiated the development of a new workflow based on the XML-first approach (MetoTaxa), in collaboration with Plazi and the University of Caen-Normandie. After several years of development, testing, and improvements, the tool will be released in 2026.
+To prevent discrepancies and enrich articles, the [Muséum national d'Histoire naturelle, Paris](https://sciencepress.mnhn.fr) (co-publisher of the journal) initiated the development of a new workflow based on the XML-first approach (MetoTaxa), in collaboration with Plazi and the [University of Caen-Normandie](https://www.unicaen.fr/). After years of conceptualization, development, and testing, the tool will be implemented in 2026.
 
 ### Journal sponsorship
 
-The journal is funded and published by a consortium of [CETAF](https://cetaf.org/) European natural history institutions (NHIs):
+The journal is funded and published by a consortium of [CETAF](https://cetaf.org/) European natural history institutions:
 
 * National Museum of Natural History, Paris, France (2011–)
 * Meise Botanic Garden, Meise, Belgium (2011–)
