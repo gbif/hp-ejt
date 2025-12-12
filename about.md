@@ -7,7 +7,7 @@ height: 70vh
 ---
 The [European Journal of Taxonomy](https://europeanjournaloftaxonomy.eu) is a fully refereed, international, electronic and diamond open access journal in descriptive taxonomy, covering subjects in zoology (including entomology), botany (in its broadest sense), mycology, and palaeontology.
 
-It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
+It provides immediate free open access to its content, under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
 ### Journal history
 
