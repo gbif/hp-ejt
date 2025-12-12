@@ -25,7 +25,7 @@ To prevent discrepancies and enrich articles, the [Muséum national d'Histoire n
 
 ### Journal sponsorship
 
-The journal is funded and published by a consortium of [CETAF](https://cetaf.org/) European natural history institutions:
+The journal is funded and published by a consortium of [CETAF](https://cetaf.org/) European NHIs:
 
 * National Museum of Natural History, Paris, France (2011–)
 * Meise Botanic Garden, Meise, Belgium (2011–)
